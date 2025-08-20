@@ -602,7 +602,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 text-center">
-                    <img src="{{ asset('assets/img/gambar_depan_1.jpg') }}" alt="Tim Ruhania"
+                    <img src="url('{{ asset('assets/img/gambar_depan_1.jpg') }}')" alt="Tim Ruhania"
                         class="img-fluid rounded-4 shadow" style="max-width:370px;">
                 </div>
             </div>
