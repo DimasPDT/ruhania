@@ -538,7 +538,7 @@
     <header class="main-header w-100 position-absolute top-0 start-0" style="z-index: 10;">
         <div class="container-fluid px-4 py-3 d-flex justify-content-between align-items-center">
             <a href="#" class="d-flex align-items-center">
-                <img src="{{ asset('assets/img/logo.png') }}" alt="Logo Ruhania"
+                <img src="url('{{ asset('assets/img/logo.png') }}')" alt="Logo Ruhania"
                     style="height:160px; margin-left: 200px;">
             </a>
             <nav>
